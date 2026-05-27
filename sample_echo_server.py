@@ -1,6 +1,6 @@
 """
 sample_echo_server.py
-A very small TCP echo server for CIS 427-style client/server practice.
+A very small TCP echo server for basic client/server practice.
 
 This example is intentionally simpler than Project 1.  It does not implement
 LOGIN, SOLVE, LIST, user files, or authentication.  It only demonstrates:
