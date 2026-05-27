@@ -1,6 +1,6 @@
 """
 sample_echo_client.py
-A very small TCP echo client for CIS 427-style client/server practice.
+A very small TCP echo client for basic client/server practice.
 
 This example connects to sample_echo_server.py, lets the user type messages,
 sends each message to the server, and prints the server's response.
